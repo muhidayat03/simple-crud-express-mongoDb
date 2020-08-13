@@ -1,0 +1,3 @@
+{
+    "terminal.integrated.sshellArgs.windows": ["-ExecutionPolicy", "Bypass"]
+}
